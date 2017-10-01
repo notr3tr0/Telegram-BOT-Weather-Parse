@@ -1,1 +1,1 @@
-VkBot
+The telegram bot that sends the weather forecast for today
